@@ -1,26 +1,4 @@
-# NOTE:
-# This is a LARGE, PROFESSIONAL, SINGLE-FILE Python project focused on
-# NumPy + Matplotlib COLORFUL ANIMATIONS.
-# The structure is intentionally modular so it can be extended easily
-# to 1000+ lines by adding more scenes, effects, and utilities.
-# ---------------------------------------------------------------
 
-"""
-COLORFUL ANIMATION MEGA PROJECT
-Author: Payal
-Level: Advanced (BCA 2nd Sem + Skill Boost)
-
-Features:
-- Multiple colorful animations
-- Scene manager
-- Reusable animation utilities
-- Save animations as GIF
--  Clean, readable, exam + project ready
-"""
-
-# =============================
-# IMPORTS
-# =============================
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
